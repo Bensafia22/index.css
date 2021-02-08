@@ -1,0 +1,45 @@
+h1{
+	background-color: rgb(0,0,0);
+	color: white;
+	margin: 22px;
+}
+	 
+        h2 {
+            color: rgb(0, 232, 15);
+        }  
+        
+        #mezia {
+            font-weight:  bolder;
+        }
+		#mezi{
+			font-weight:  bolder;
+            
+        }
+
+		#mez {
+            font-weight:  bolder;
+        }
+        
+        p {
+            color: rgb(254, 254, 255);
+        }
+
+		#AUTEUR {
+            background-color:rgb(145,145,145); 
+			color: white;
+        }
+
+		.METEO{
+            display: flex;
+			flex-warp: warp;
+			margin: 25px;
+		
+        }
+
+		.METEO div {
+			width: 9000px;
+			color: white;
+            border: solid 1px #000 ;
+            background-color: rgb(145,145,145);
+            margin: 22px;
+        }
